@@ -1,0 +1,20 @@
+body * {
+    /* margin: 0;
+    padding: 0; */
+    box-sizing: border-box;
+}
+
+nav > a {
+    color: blue;
+    text-decoration: none;
+    margin-right: 15px;
+    font-weight: bold;
+    font-size: 18px;
+    padding: 5 px 10 px;
+    background-color: yellow;
+}
+
+nav > a:hover {
+    background-color: orange;
+    color: white;
+}
